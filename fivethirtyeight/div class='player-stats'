@@ -1,0 +1,11 @@
+div class='player-stats'
+	table
+		table row
+			1)td - metric name
+			2)td - metric
+			3)trash
+			4)td class='No Border'
+				1)trash
+				2)trash
+				3)trash
+				4)div class='percentile all', style='left: %;'
